@@ -1,6 +1,6 @@
 # Intro
 
-This is a YouTube clone I have made using the YouTube Data API and react
+This is a YouTube clone I have made using the YouTube Data API and ReactJS
 
 The app presents the trending YouTube videos in Romania and can be used to search on youtube using the search bar
 
