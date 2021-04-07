@@ -1,3 +1,24 @@
+# Intro
+
+This is a YouTube clone I have made using the YouTube Data API and react
+
+The app presents the trending YouTube videos in Romania and can be used to search on youtube using the search bar
+
+All other features are aesthetical
+
+Technology Stack:
+
+ReactJS for the interface
+
+Material-ui/icons for the icons
+
+YouTube Data API for getting the trending videos in Romania and for searching
+
+Axios for easier use of the API
+
+check it out working at : https://yt-clone-8ecc8.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
